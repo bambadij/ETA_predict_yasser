@@ -1,16 +1,14 @@
-# YASSIR PREDICTING TIME 
+# Yassir ETA Prediction 
 
 ## Project Description
 
 **YASSIR** This app uses a machine learning model to predict the ETA of trips on the Yassir Hailing App.Refer to the expander at the bottom for more information on the inputs.:
  
-- being very young or old
-- a weakened immune system from conditions such as cancer or diabetes, major trauma, and burns.
-
+-Creating an ML model to predict the estimated time of arrival at the dropoff point for a single journey on a ride-hailing app.
 
 ## Setting up the Environment 🍀
 
-For manual installation, you need to have `Python 3` on your system. Then you can clone this repo and be at the repo's root `https://github.com/bambadij/Gradio_classification`, then follow the steps as outlined below;
+For manual installation, you need to have `Python 3` on your system. Then you can clone this repo and be at the repo's root `https://github.com/bambadij/ETA_predict_yasser.git`, then follow the steps as outlined below;
 
 1. Create a Python virtual environment to isolate the project's required libraries and avoid conflicts. Execute the following command in your terminal:
 

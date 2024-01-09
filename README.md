@@ -68,15 +68,11 @@ Below is a preview showcasing some features of the FastAPI:
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
         <p>FastAPI Top</p>
-             <img src="https://github.com/bambadij/Sepsi_Predict_FastAPI/blob/main/src/input.png" alt="Middle" width="90%"/>
-    </div>
+             <img src="https://github.com/bambadij/ETA_predict_yasser/blob/main/gradioapp.PNG" alt="Middle" width="90%"/>  
+   </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>FastAPI Input</p>
              <img src="https://github.com/bambadij/Sepsi_Predict_FastAPI/blob/main/src/input.png" alt="Top" width="90%"/>
-        </div>
-    <div style="flex: 33.33%; text-align: center;">
-        <p>FastAPI Result</p>
-        <img src="https://github.com/bambadij/Sepsi_Predict_FastAPI/blob/main/src/result.png" alt="Middle" width="90%"/>
         </div>
 </div>
 

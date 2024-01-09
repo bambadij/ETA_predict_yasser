@@ -2,8 +2,7 @@
 
 ## Project Description
 
-**YASSIR** This app uses a machine learning model to predict the ETA of trips on the Yassir Hailing App.Refer to the expander at the bottom for more information on the inputs.:
- 
+**YASSIR** This app uses a machine learning model to predict the ETA of trips on the Yassir Hailing App.
 -Creating an ML model to predict the estimated time of arrival at the dropoff point for a single journey on a ride-hailing app.
 
 ## Setting up the Environment 🍀
